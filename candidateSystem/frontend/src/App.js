@@ -101,7 +101,6 @@ function App() {
                       : "bg-primary"
                   }`}
                 >
-                  <th scope="row"></th>
                   <td>{candidate.id}</td>
                   <td>{candidate.name}</td>
                   <td>{candidate.phone}</td>
